@@ -8,6 +8,7 @@
 ## GitHub Action运行
 ### Fork此仓库
 ![](https://cdn.jsdelivr.net/gh/wes-lin/Cloud189Checkin/image/fork.png)
+
 ### 设置账号密码
 新版本的git Action 需要创建environment来配合使用，创建一个名为user的环境
 ![](https://cdn.jsdelivr.net/gh/wes-lin/Cloud189Checkin/image/env.png)
